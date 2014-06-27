@@ -1,0 +1,14 @@
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\B13_Ex05.exe
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\B13_Ex05.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\CheckersLogic.dll
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\CheckersLogic.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\B13_Ex05.exe
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\B13_Ex05.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\Ex05.CheckersUI.csprojResolveAssemblyReference.cache
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\B13_Ex05.exe
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\B13_Ex05.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\B13_Ex05.exe
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\B13_Ex05.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\CheckersLogic.dll
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\bin\Debug\CheckersLogic.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\B13_Ex05\obj\x86\Debug\Ex05.CheckersUI.csprojResolveAssemblyReference.cache

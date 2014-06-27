@@ -1,0 +1,4 @@
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\CheckersLogic\obj\x86\Debug\CheckersLogic.dll
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex05 OdedLifshiz 300021524 HilaRofman 305747057\CheckersLogic\obj\x86\Debug\CheckersLogic.pdb
